@@ -1,6 +1,6 @@
 # Haywire
 Website repository for Project Haywire
 
-##Description
+## Description
 
 Project Haywire is a sci-fi FPS souls-like RPG. It is currently in development and will showcase a playable demo soon to be tried. The full game release will take a very long time considering it is currently being developed by just two programmers, who more or less lack any 3D art skills. We hope to have more people in out team as time goes by but do not have a funding to start a small studio. We hope to deliver a great demo and gain an audience that can contribute funds as well as talent to this project. We are working individuals who will be spending our free time on developing this project. The project is being built using the Unity engine with the HDRP+DXR render pipeline (yes, it will have Ray-Tracing and DLSS). It also uses some experimental technologies like the DOTS (Data Oriented Technology Stack) which includes things like an Entity-Component-System and Hybrid Renderer. These packages are essential for the development of this project since vanilla unity game object system is just not fast enough for the scale of our game. As such the game (and the demo) might suffer some delays based on bugs and instabilities in these technologies. As for the art, we are temporarily using assets available on the Unity Asset Store. 
